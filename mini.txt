@@ -1,0 +1,3 @@
+total winnings =  38.32
+total bets =  35
+net winnings =  3.320
